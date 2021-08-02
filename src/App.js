@@ -18,13 +18,13 @@ function App() {
       <Router>
         <div className="App">
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/IdeateVerdant">
               <Home />
             </Route>
-            <Route exact path="/token">
+            <Route exact path="/IdeateVerdant/token">
               <Token />
             </Route>
-            <Route exact path="/info">
+            <Route exact path="/IdeateVerdant/info">
               <Info />
             </Route>
           </Switch>

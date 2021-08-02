@@ -25,13 +25,12 @@ const styles = {
 }
 
 const settings = [
-  { text: 'Token', href: '/token' },
+  { text: 'Token', href: '/IdeateVerdant/token' },
 ]
 
 const accounts = [
-  { text: 'Home', href: '/' },
-  { text: 'Account', href: '/info' },
-  { text: 'Statistic', href: '/statistic' },
+  { text: 'Home', href: '/IdeateVerdant' },
+  { text: 'Account', href: '/IdeateVerdant/info' },
 ]
 
 export default function Header() {
