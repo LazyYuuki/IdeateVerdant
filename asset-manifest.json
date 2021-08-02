@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/IdeateVerdant/static/css/main.4854fd0c.chunk.css",
-    "main.js": "/IdeateVerdant/static/js/main.babe15e6.chunk.js",
-    "main.js.map": "/IdeateVerdant/static/js/main.babe15e6.chunk.js.map",
+    "main.js": "/IdeateVerdant/static/js/main.560db32b.chunk.js",
+    "main.js.map": "/IdeateVerdant/static/js/main.560db32b.chunk.js.map",
     "runtime-main.js": "/IdeateVerdant/static/js/runtime-main.93bf58aa.js",
     "runtime-main.js.map": "/IdeateVerdant/static/js/runtime-main.93bf58aa.js.map",
     "static/js/2.ad685c1e.chunk.js": "/IdeateVerdant/static/js/2.ad685c1e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.93bf58aa.js",
     "static/js/2.ad685c1e.chunk.js",
     "static/css/main.4854fd0c.chunk.css",
-    "static/js/main.babe15e6.chunk.js"
+    "static/js/main.560db32b.chunk.js"
   ]
 }
