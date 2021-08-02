@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IdeateVerdant/static/css/main.4854fd0c.chunk.css",
+    "main.js": "/IdeateVerdant/static/js/main.babe15e6.chunk.js",
+    "main.js.map": "/IdeateVerdant/static/js/main.babe15e6.chunk.js.map",
+    "runtime-main.js": "/IdeateVerdant/static/js/runtime-main.93bf58aa.js",
+    "runtime-main.js.map": "/IdeateVerdant/static/js/runtime-main.93bf58aa.js.map",
+    "static/js/2.ad685c1e.chunk.js": "/IdeateVerdant/static/js/2.ad685c1e.chunk.js",
+    "static/js/2.ad685c1e.chunk.js.map": "/IdeateVerdant/static/js/2.ad685c1e.chunk.js.map",
+    "static/js/3.66689414.chunk.js": "/IdeateVerdant/static/js/3.66689414.chunk.js",
+    "static/js/3.66689414.chunk.js.map": "/IdeateVerdant/static/js/3.66689414.chunk.js.map",
+    "index.html": "/IdeateVerdant/index.html",
+    "static/css/main.4854fd0c.chunk.css.map": "/IdeateVerdant/static/css/main.4854fd0c.chunk.css.map",
+    "static/js/2.ad685c1e.chunk.js.LICENSE.txt": "/IdeateVerdant/static/js/2.ad685c1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93bf58aa.js",
+    "static/js/2.ad685c1e.chunk.js",
+    "static/css/main.4854fd0c.chunk.css",
+    "static/js/main.babe15e6.chunk.js"
+  ]
+}
