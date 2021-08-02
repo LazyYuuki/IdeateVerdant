@@ -12,7 +12,7 @@ const cards = [
 const styles = {
   container: {
     height: 330,
-    backgroundImage: `url(/tree.svg)`,
+    backgroundImage: `url(tree.svg)`,
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
   },

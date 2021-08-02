@@ -28,8 +28,8 @@ export default function Info() {
     <div>
       <Header />
       <div style={styles.contentContainer}>
-        <img src="/QR.png" alt="QR" width='70%' style={styles.image} />
-        <img src="/barcode.png" alt="barcode" width='80%' style={styles.image} />
+        <img src="QR.png" alt="QR" width='70%' style={styles.image} />
+        <img src="barcode.png" alt="barcode" width='80%' style={styles.image} />
         <Typography
           variant='subtitle2'
           style={styles.text}

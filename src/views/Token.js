@@ -48,7 +48,7 @@ export default function Token() {
       >
         Click on the button below to pair with your token!
       </Typography>
-      <img src="/tree.svg" alt="tree" width='100%' />
+      <img src="tree.svg" alt="tree" width='100%' />
       <div style={{ textAlign: 'center' }}>
         <Button
           variant='contained'

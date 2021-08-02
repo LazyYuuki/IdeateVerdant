@@ -63,7 +63,7 @@ export default function CouponCard({ merchant, redeemPoint, content }) {
               <Typography
                 style={styles.pointText}
               >
-                <img src="/coin.gif" alt="coin" width={14} style={{ marginRight: 3 }} />
+                <img src="coin.gif" alt="coin" width={14} style={{ marginRight: 3 }} />
                 {redeemPoint}
               </Typography>
             </div>
